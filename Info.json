@@ -1,0 +1,13 @@
+{"Name":"妖丹",
+"DisplayName":"妖丹",
+"GameVersion":0.95291,
+"Version":0.1,
+"Desc":"[作者]\r\n    Cactus\r\n[简介]\r\n地图野兽有几率掉落妖丹,
+除了鸡\n金:一定时间提高突破概率\n木:永久略微提升伤势恢复速度\n水:永久略微提升灵气最大值\n火:永久略微提升灵气吸收率\n土:略微提升寿命\nmod来自3dm论坛，作者：梦の點滴",
+"Author":"梦の點滴",
+"UIPackage":null,
+"ID":"1819897910",
+"Flag":730979,
+"Tags":["Elixir"],
+"IncreasedDesc":"",
+"IsInsideCreat":false}

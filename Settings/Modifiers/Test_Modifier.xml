@@ -27,7 +27,7 @@
 			<Duration>-1</Duration>
 			<Display>0</Display>
 			<Properties>
-				<li Name="MaxAge" AddV="30"/>
+				<li Name="MaxAge" AddV="10"/>
 			</Properties>
 		</Modifier> 
 		<Modifier Name="Dan_YaoDan3" Type="Normal"><!-- 回复速度 -->

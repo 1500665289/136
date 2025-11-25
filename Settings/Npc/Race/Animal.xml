@@ -1,5 +1,4 @@
-<RaceDefs>
-	<List>
+<RaceDefs><List>
 
 <RaceDef Name="Rabbit">
 	<DisplayName>兔子</DisplayName>
@@ -31,11 +30,6 @@
 			<Rate>1</Rate>
 		</li>
 		<li>
-			<ThingDef>Item_JiYaoDan</ThingDef>
-			<Count>1</Count>
-			<Rate>0.5</Rate>
-		</li>
-		<li>
 			<ThingDef>Item_MuYaoDan</ThingDef>
 			<Count>1</Count>
 			<Rate>0.5</Rate>
@@ -43,26 +37,16 @@
 		<li>
 			<ThingDef>Item_ShuiYaoDan</ThingDef>
 			<Count>1</Count>
-			<Rate>0.5</Rate>
-		</li>
-		<li>
-			<ThingDef>Item_HuoYaoDan</ThingDef>
-			<Count>1</Count>
-			<Rate>0.5</Rate>
-		</li>
-		<li>
-			<ThingDef>Item_TuYaoDan</ThingDef>
-			<Count>1</Count>
-			<Rate>0.5</Rate>
+			<Rate>0.3</Rate>
 		</li>
 	</SlaughterItems>
 	<BaseFive>
-		<li Sex="Male" 	 AgeMin="0" 	AgeMax="2">2,1,1,1,2</li> 
-		<li Sex="Male" 	 AgeMin="3" 	AgeMax="9">4,1,1,1,2</li> 
-		<li Sex="Male" 	 AgeMin="10" 	AgeMax="12">2,1,1,1,2</li> 
-		<li Sex="Female" 	 AgeMin="0" 	AgeMax="2">2,1,1,1,2</li> 
-		<li Sex="Female" 	 AgeMin="3" 	AgeMax="9">4,1,1,1,2</li> 
-		<li Sex="Female" 	 AgeMin="10" 	AgeMax="12">2,1,1,1,2</li> 
+		<li Sex="Male" 	 AgeMin="0" 	AgeMax="2"	>2,1,1,1,2</li> 
+		<li Sex="Male" 	 AgeMin="3" 	AgeMax="9"	>4,1,1,1,2</li> 
+		<li Sex="Male" 	 AgeMin="10" 	AgeMax="12"	>2,1,1,1,2</li> 
+		<li Sex="Female" 	 AgeMin="0" 	AgeMax="2"	>2,1,1,1,2</li> 
+		<li Sex="Female" 	 AgeMin="3" 	AgeMax="9"	>4,1,1,1,2</li> 
+		<li Sex="Female" 	 AgeMin="10" 	AgeMax="12"	>2,1,1,1,2</li> 
 	</BaseFive>
 	<BaseP>
 		<li Name="RaceMaxAge" Value="MammalMaxAge_15"/>
@@ -102,39 +86,14 @@
 			<Count>24</Count>
 			<Rate>1</Rate>
 		</li>
-		<li>
-			<ThingDef>Item_JiYaoDan</ThingDef>
-			<Count>1</Count>
-			<Rate>0.5</Rate>
-		</li>
-		<li>
-			<ThingDef>Item_MuYaoDan</ThingDef>
-			<Count>1</Count>
-			<Rate>0.5</Rate>
-		</li>
-		<li>
-			<ThingDef>Item_ShuiYaoDan</ThingDef>
-			<Count>1</Count>
-			<Rate>0.5</Rate>
-		</li>
-		<li>
-			<ThingDef>Item_HuoYaoDan</ThingDef>
-			<Count>1</Count>
-			<Rate>0.5</Rate>
-		</li>
-		<li>
-			<ThingDef>Item_TuYaoDan</ThingDef>
-			<Count>1</Count>
-			<Rate>0.5</Rate>
-		</li>
 	</SlaughterItems>
 	<BaseFive>
-		<li Sex="Male" 	 AgeMin="0" 	AgeMax="2">2,1,1,1,2</li> 
-		<li Sex="Male" 	 AgeMin="3" 	AgeMax="9">4,1,1,1,2</li> 
-		<li Sex="Male" 	 AgeMin="10" 	AgeMax="12">2,1,1,1,2</li> 
-		<li Sex="Female" 	 AgeMin="0" 	AgeMax="2">2,1,1,1,2</li> 
-		<li Sex="Female" 	 AgeMin="3" 	AgeMax="9">4,1,1,1,2</li> 
-		<li Sex="Female" 	 AgeMin="10" 	AgeMax="12">2,1,1,1,2</li> 
+		<li Sex="Male" 	 AgeMin="0" 	AgeMax="2"	>2,1,1,1,2</li> 
+		<li Sex="Male" 	 AgeMin="3" 	AgeMax="9"	>4,1,1,1,2</li> 
+		<li Sex="Male" 	 AgeMin="10" 	AgeMax="12"	>2,1,1,1,2</li> 
+		<li Sex="Female" 	 AgeMin="0" 	AgeMax="2"	>2,1,1,1,2</li> 
+		<li Sex="Female" 	 AgeMin="3" 	AgeMax="9"	>4,1,1,1,2</li> 
+		<li Sex="Female" 	 AgeMin="10" 	AgeMax="12"	>2,1,1,1,2</li> 
 	</BaseFive>
 	<BaseP>
 		<li Name="RaceMaxAge" Value="MammalMaxAge_15"/>
@@ -184,34 +143,14 @@
 			<Count>1</Count>
 			<Rate>0.5</Rate>
 		</li>
-		<li>
-			<ThingDef>Item_MuYaoDan</ThingDef>
-			<Count>1</Count>
-			<Rate>0.5</Rate>
-		</li>
-		<li>
-			<ThingDef>Item_ShuiYaoDan</ThingDef>
-			<Count>1</Count>
-			<Rate>0.5</Rate>
-		</li>
-		<li>
-			<ThingDef>Item_HuoYaoDan</ThingDef>
-			<Count>1</Count>
-			<Rate>0.5</Rate>
-		</li>
-		<li>
-			<ThingDef>Item_TuYaoDan</ThingDef>
-			<Count>1</Count>
-			<Rate>0.5</Rate>
-		</li>
 	</SlaughterItems>
 	<BaseFive>
-		<li Sex="Male" 	 AgeMin="0" 	AgeMax="2">2,1,1,1,2</li> 
-		<li Sex="Male" 	 AgeMin="3" 	AgeMax="9">5,3,1,3,2</li> 
-		<li Sex="Male" 	 AgeMin="10" 	AgeMax="12">4,2,1,4,2</li> 
-		<li Sex="Female" 	 AgeMin="0" 	AgeMax="2">2,1,1,1,2</li> 
-		<li Sex="Female" 	 AgeMin="3" 	AgeMax="9">5,3,1,3,2</li> 
-		<li Sex="Female" 	 AgeMin="10" 	AgeMax="12">4,2,1,4,2</li> 
+		<li Sex="Male" 	 AgeMin="0" 	AgeMax="2"	>2,1,1,1,2</li> 
+		<li Sex="Male" 	 AgeMin="3" 	AgeMax="9"	>5,3,1,3,2</li> 
+		<li Sex="Male" 	 AgeMin="10" 	AgeMax="12"	>4,2,1,4,2</li> 
+		<li Sex="Female" 	 AgeMin="0" 	AgeMax="2"	>2,1,1,1,2</li> 
+		<li Sex="Female" 	 AgeMin="3" 	AgeMax="9"	>5,3,1,3,2</li> 
+		<li Sex="Female" 	 AgeMin="10" 	AgeMax="12"	>4,2,1,4,2</li> 
 	</BaseFive>
 	<BaseP>
 		<li Name="RaceMaxAge" Value="MammalMaxAge_15"/>
@@ -226,6 +165,7 @@
 		<li Name="RaceRecoveryPower" Value="MammalRecoveryPower"/>
 	</BaseP>
 </RaceDef>
+
 
 <RaceDef Name="Snake">
 	<DisplayName>蛇</DisplayName>
@@ -254,42 +194,22 @@
 			<ThingDef>Item_SnakeGallbladder</ThingDef>
 			<Count>1</Count>
 			<Rate>0.5</Rate>
-		</li>
-		<li>
-			<ThingDef>Item_JiYaoDan</ThingDef>
-			<Count>1</Count>
-			<Rate>0.5</Rate>
-		</li>
-		<li>
-			<ThingDef>Item_MuYaoDan</ThingDef>
-			<Count>1</Count>
-			<Rate>0.5</Rate>
-		</li>
-		<li>
-			<ThingDef>Item_ShuiYaoDan</ThingDef>
-			<Count>1</Count>
-			<Rate>0.5</Rate>
-		</li>
-		<li>
+			<li>
 			<ThingDef>Item_HuoYaoDan</ThingDef>
 			<Count>1</Count>
 			<Rate>0.5</Rate>
 		</li>
-		<li>
-			<ThingDef>Item_TuYaoDan</ThingDef>
-			<Count>1</Count>
-			<Rate>0.5</Rate>
 		</li>
 	</SlaughterItems>
 	<BaseFive>
-		<li Sex="Male" 	 AgeMin="0" 	AgeMax="2">2,4,1,1,2</li> 
-		<li Sex="Male" 	 AgeMin="3" 	AgeMax="9">3,4,1,2,2</li> 
-		<li Sex="Male" 	 AgeMin="10" 	AgeMax="30">4,4,1,3,3</li> 
-		<li Sex="Male" 	 AgeMin="31" 	AgeMax="50">6,4,1,5,4</li> 
-		<li Sex="Female" 	 AgeMin="0" 	AgeMax="2">2,4,1,1,2</li> 
-		<li Sex="Female" 	 AgeMin="3" 	AgeMax="9">3,4,1,2,2</li> 
-		<li Sex="Female" 	 AgeMin="10" 	AgeMax="30">4,4,1,3,3</li> 
-		<li Sex="Female" 	 AgeMin="31" 	AgeMax="50">6,4,1,5,4</li> 
+		<li Sex="Male" 	 AgeMin="0" 	AgeMax="2"	>2,4,1,1,2</li> 
+		<li Sex="Male" 	 AgeMin="3" 	AgeMax="9"	>3,4,1,2,2</li> 
+		<li Sex="Male" 	 AgeMin="10" 	AgeMax="30"	>4,4,1,3,3</li> 
+		<li Sex="Male" 	 AgeMin="31" 	AgeMax="50"	>6,4,1,5,4</li> 
+		<li Sex="Female" 	 AgeMin="0" 	AgeMax="2"	>2,4,1,1,2</li> 
+		<li Sex="Female" 	 AgeMin="3" 	AgeMax="9"	>3,4,1,2,2</li> 
+		<li Sex="Female" 	 AgeMin="10" 	AgeMax="30"	>4,4,1,3,3</li> 
+		<li Sex="Female" 	 AgeMin="31" 	AgeMax="50"	>6,4,1,5,4</li> 
 	</BaseFive>
 	<BaseP>
 		<li Name="RaceMaxAge" Value="PoikilothermMaxAge_50"/>
@@ -304,6 +224,8 @@
 		<li Name="RaceRecoveryPower" Value="PoikilothermRecoveryPower"/>
 	</BaseP>
 </RaceDef>
+
+
 
 <RaceDef Name="Boar">
 	<DisplayName>野猪</DisplayName>
@@ -333,40 +255,20 @@
 			<ThingDef>Item_BoarMeat</ThingDef>
 			<Count>60</Count>
 			<Rate>1</Rate>
-		</li>
-		<li>
-			<ThingDef>Item_JiYaoDan</ThingDef>
-			<Count>1</Count>
-			<Rate>0.5</Rate>
-		</li>
-		<li>
+			<li>
 			<ThingDef>Item_MuYaoDan</ThingDef>
 			<Count>1</Count>
 			<Rate>0.5</Rate>
 		</li>
-		<li>
-			<ThingDef>Item_ShuiYaoDan</ThingDef>
-			<Count>1</Count>
-			<Rate>0.5</Rate>
-		</li>
-		<li>
-			<ThingDef>Item_HuoYaoDan</ThingDef>
-			<Count>1</Count>
-			<Rate>0.5</Rate>
-		</li>
-		<li>
-			<ThingDef>Item_TuYaoDan</ThingDef>
-			<Count>1</Count>
-			<Rate>0.5</Rate>
 		</li>
 	</SlaughterItems>
 	<BaseFive>
-		<li Sex="Male" 	 AgeMin="0" 	AgeMax="2">2,1,1,1,2</li> 
-		<li Sex="Male" 	 AgeMin="3" 	AgeMax="15">4,6,1,3,2</li> 
-		<li Sex="Male" 	 AgeMin="16" 	AgeMax="20">3,4,1,2,2</li> 
-		<li Sex="Female" 	 AgeMin="0" 	AgeMax="2">2,2,1,1,2</li> 
-		<li Sex="Female" 	 AgeMin="3" 	AgeMax="15">4,6,1,3,2</li> 
-		<li Sex="Female" 	 AgeMin="16" 	AgeMax="20">3,4,1,2,2</li> 
+		<li Sex="Male" 	 AgeMin="0" 	AgeMax="2"	>2,1,1,1,2</li> 
+		<li Sex="Male" 	 AgeMin="3" 	AgeMax="15"	>4,6,1,3,2</li> 
+		<li Sex="Male" 	 AgeMin="16" 	AgeMax="20"	>3,4,1,2,2</li> 
+		<li Sex="Female" 	 AgeMin="0" 	AgeMax="2"	>2,2,1,1,2</li> 
+		<li Sex="Female" 	 AgeMin="3" 	AgeMax="15"	>4,6,1,3,2</li> 
+		<li Sex="Female" 	 AgeMin="16" 	AgeMax="20"	>3,4,1,2,2</li> 
 	</BaseFive>
 	<BaseP>
 		<li Name="RaceMaxAge" Value="MammalMaxAge_24"/>
@@ -412,7 +314,7 @@
 			<Rate>1</Rate>
 		</li>
 		<li>
-			<ThingDef>Item_BearGallbladder</ThingDef>
+		<ThingDef>Item_BearGallbladder</ThingDef>
 			<Count>1</Count>
 			<Rate>0.5</Rate>
 		</li>
@@ -421,34 +323,14 @@
 			<Count>1</Count>
 			<Rate>0.5</Rate>
 		</li>
-		<li>
-			<ThingDef>Item_MuYaoDan</ThingDef>
-			<Count>1</Count>
-			<Rate>0.5</Rate>
-		</li>
-		<li>
-			<ThingDef>Item_ShuiYaoDan</ThingDef>
-			<Count>1</Count>
-			<Rate>0.5</Rate>
-		</li>
-		<li>
-			<ThingDef>Item_HuoYaoDan</ThingDef>
-			<Count>1</Count>
-			<Rate>0.5</Rate>
-		</li>
-		<li>
-			<ThingDef>Item_TuYaoDan</ThingDef>
-			<Count>1</Count>
-			<Rate>0.5</Rate>
-		</li>
 	</SlaughterItems>
 	<BaseFive>
-		<li Sex="Male" 	 AgeMin="0" 	AgeMax="4">2,4,1,1,2</li> 
-		<li Sex="Male" 	 AgeMin="5" 	AgeMax="20">7,9,1,3,2</li> 
-		<li Sex="Male" 	 AgeMin="21" 	AgeMax="42">6,7,1,4,2</li> 
-		<li Sex="Female" 	 AgeMin="0" 	AgeMax="4">2,4,1,1,2</li> 
-		<li Sex="Female" 	 AgeMin="5" 	AgeMax="20">7,9,1,3,2</li> 
-		<li Sex="Female" 	 AgeMin="21" 	AgeMax="42">6,7,1,4,2</li> 
+		<li Sex="Male" 	 AgeMin="0" 	AgeMax="4"	>2,4,1,1,2</li> 
+		<li Sex="Male" 	 AgeMin="5" 	AgeMax="20"	>7,9,1,3,2</li> 
+		<li Sex="Male" 	 AgeMin="21" 	AgeMax="42"	>6,7,1,4,2</li> 
+		<li Sex="Female" 	 AgeMin="0" 	AgeMax="4"	>2,4,1,1,2</li> 
+		<li Sex="Female" 	 AgeMin="5" 	AgeMax="20"	>7,9,1,3,2</li> 
+		<li Sex="Female" 	 AgeMin="21" 	AgeMax="42"	>6,7,1,4,2</li> 
 	</BaseFive>
 	<BaseP>
 		<li Name="RaceMaxAge" Value="MammalMaxAge_45"/>
@@ -488,39 +370,19 @@
 			<Count>26</Count>
 			<Rate>1</Rate>
 		</li>
-		<li>
-			<ThingDef>Item_JiYaoDan</ThingDef>
-			<Count>1</Count>
-			<Rate>0.5</Rate>
-		</li>
-		<li>
-			<ThingDef>Item_MuYaoDan</ThingDef>
-			<Count>1</Count>
-			<Rate>0.5</Rate>
-		</li>
-		<li>
-			<ThingDef>Item_ShuiYaoDan</ThingDef>
-			<Count>1</Count>
-			<Rate>0.5</Rate>
-		</li>
-		<li>
-			<ThingDef>Item_HuoYaoDan</ThingDef>
-			<Count>1</Count>
-			<Rate>0.5</Rate>
-		</li>
-		<li>
+				<li>
 			<ThingDef>Item_TuYaoDan</ThingDef>
 			<Count>1</Count>
 			<Rate>0.5</Rate>
 		</li>
 	</SlaughterItems>
 	<BaseFive>
-		<li Sex="Male" 	 AgeMin="0" 	AgeMax="10">2,2,1,2,6</li> 
-		<li Sex="Male" 	 AgeMin="11" 	AgeMax="80">2,4,1,3,6</li> 
-		<li Sex="Male" 	 AgeMin="81" 	AgeMax="200">2,3,1,7,6</li> 
-		<li Sex="Female" 	 AgeMin="0" 	AgeMax="10">2,2,1,2,6</li> 
-		<li Sex="Female" 	 AgeMin="11" 	AgeMax="80">2,4,1,3,6</li> 
-		<li Sex="Female" 	 AgeMin="81" 	AgeMax="200">2,3,1,7,6</li> 
+		<li Sex="Male" 	 AgeMin="0" 	AgeMax="10"	>2,2,1,2,6</li> 
+		<li Sex="Male" 	 AgeMin="11" 	AgeMax="80"	>2,4,1,3,6</li> 
+		<li Sex="Male" 	 AgeMin="81" 	AgeMax="200"	>2,3,1,7,6</li> 
+		<li Sex="Female" 	 AgeMin="0" 	AgeMax="10"	>2,2,1,2,6</li> 
+		<li Sex="Female" 	 AgeMin="11" 	AgeMax="80"	>2,4,1,3,6</li> 
+		<li Sex="Female" 	 AgeMin="81" 	AgeMax="200"	>2,3,1,7,6</li> 
 	</BaseFive>
 	<BaseP>
 		<li Name="RaceMaxAge" Value="MammalMaxAge_200"/>
@@ -535,6 +397,7 @@
 		<li Name="RaceRecoveryPower" Value="MammalRecoveryPower"/>
 	</BaseP>
 </RaceDef>
+
 
 <RaceDef Name="Frog">
 	<DisplayName>青蛙</DisplayName>
@@ -560,39 +423,19 @@
 			<Count>12</Count>
 			<Rate>1</Rate>
 		</li>
-		<li>
-			<ThingDef>Item_JiYaoDan</ThingDef>
-			<Count>1</Count>
-			<Rate>0.5</Rate>
-		</li>
-		<li>
-			<ThingDef>Item_MuYaoDan</ThingDef>
-			<Count>1</Count>
-			<Rate>0.5</Rate>
-		</li>
-		<li>
+				<li>
 			<ThingDef>Item_ShuiYaoDan</ThingDef>
-			<Count>1</Count>
-			<Rate>0.5</Rate>
-		</li>
-		<li>
-			<ThingDef>Item_HuoYaoDan</ThingDef>
-			<Count>1</Count>
-			<Rate>0.5</Rate>
-		</li>
-		<li>
-			<ThingDef>Item_TuYaoDan</ThingDef>
 			<Count>1</Count>
 			<Rate>0.5</Rate>
 		</li>
 	</SlaughterItems>
 	<BaseFive>
-		<li Sex="Male" 	 AgeMin="0" 	AgeMax="3">2,3,1,1,2</li> 
-		<li Sex="Male" 	 AgeMin="4" 	AgeMax="9">2,4,1,1,2</li> 
-		<li Sex="Male" 	 AgeMin="10" 	AgeMax="15">2,3,1,1,2</li> 
-		<li Sex="Female" 	 AgeMin="0" 	AgeMax="3">2,3,1,1,2</li> 
-		<li Sex="Female" 	 AgeMin="4" 	AgeMax="9">2,4,1,1,2</li> 
-		<li Sex="Female" 	 AgeMin="10" 	AgeMax="15">2,3,1,1,2</li> 
+		<li Sex="Male" 	 AgeMin="0" 	AgeMax="3"	>1,1,1,1,1</li> 
+		<li Sex="Male" 	 AgeMin="4" 	AgeMax="9"	>1,1,1,1,1</li> 
+		<li Sex="Male" 	 AgeMin="10" 	AgeMax="15"	>1,1,1,1,1</li> 
+		<li Sex="Female" 	 AgeMin="0" 	AgeMax="3"	>1,1,1,1,1</li> 
+		<li Sex="Female" 	 AgeMin="4" 	AgeMax="9"	>1,1,1,1,1</li> 
+		<li Sex="Female" 	 AgeMin="10" 	AgeMax="15"	>1,1,1,1,1</li> 
 	</BaseFive>
 	<BaseP>
 		<li Name="RaceMaxAge" Value="MammalMaxAge_15"/>
@@ -642,39 +485,14 @@
 			<Count>94</Count>
 			<Rate>1</Rate>
 		</li>
-		<li>
-			<ThingDef>Item_JiYaoDan</ThingDef>
-			<Count>1</Count>
-			<Rate>0.5</Rate>
-		</li>
-		<li>
-			<ThingDef>Item_MuYaoDan</ThingDef>
-			<Count>1</Count>
-			<Rate>0.5</Rate>
-		</li>
-		<li>
-			<ThingDef>Item_ShuiYaoDan</ThingDef>
-			<Count>1</Count>
-			<Rate>0.5</Rate>
-		</li>
-		<li>
-			<ThingDef>Item_HuoYaoDan</ThingDef>
-			<Count>1</Count>
-			<Rate>0.5</Rate>
-		</li>
-		<li>
-			<ThingDef>Item_TuYaoDan</ThingDef>
-			<Count>1</Count>
-			<Rate>0.5</Rate>
-		</li>
 	</SlaughterItems>
 	<BaseFive>
-		<li Sex="Male" 	 AgeMin="0" 	AgeMax="2">2,2,1,1,2</li> 
-		<li Sex="Male" 	 AgeMin="3" 	AgeMax="9">5,6,1,3,2</li> 
-		<li Sex="Male" 	 AgeMin="10" 	AgeMax="12">4,9,1,4,2</li> 
-		<li Sex="Female" 	 AgeMin="0" 	AgeMax="2">2,2,1,1,2</li> 
-		<li Sex="Female" 	 AgeMin="3" 	AgeMax="9">5,6,1,3,2</li> 
-		<li Sex="Female" 	 AgeMin="10" 	AgeMax="12">4,9,1,4,2</li> 
+		<li Sex="Male" 	 AgeMin="0" 	AgeMax="2"	>2,2,1,1,2</li> 
+		<li Sex="Male" 	 AgeMin="3" 	AgeMax="9"	>5,6,1,3,2</li> 
+		<li Sex="Male" 	 AgeMin="10" 	AgeMax="12"	>4,9,1,4,2</li> 
+		<li Sex="Female" 	 AgeMin="0" 	AgeMax="2"	>2,2,1,1,2</li> 
+		<li Sex="Female" 	 AgeMin="3" 	AgeMax="9"	>5,63,1,3,2</li> 
+		<li Sex="Female" 	 AgeMin="10" 	AgeMax="12"	>4,9,1,4,2</li> 
 	</BaseFive>
 	<BaseP>
 		<li Name="RaceMaxAge" Value="MammalMaxAge_15"/>
@@ -689,7 +507,6 @@
 		<li Name="RaceRecoveryPower" Value="MammalRecoveryPower"/>
 	</BaseP>
 </RaceDef>
-
 <RaceDef Name="Lushu">
 	<DisplayName>鹿蜀</DisplayName>
 	<Mod>Mod/Npc/Lushu/Base</Mod>
@@ -724,39 +541,14 @@
 			<Count>72</Count>
 			<Rate>1</Rate>
 		</li>
-		<li>
-			<ThingDef>Item_JiYaoDan</ThingDef>
-			<Count>1</Count>
-			<Rate>0.5</Rate>
-		</li>
-		<li>
-			<ThingDef>Item_MuYaoDan</ThingDef>
-			<Count>1</Count>
-			<Rate>0.5</Rate>
-		</li>
-		<li>
-			<ThingDef>Item_ShuiYaoDan</ThingDef>
-			<Count>1</Count>
-			<Rate>0.5</Rate>
-		</li>
-		<li>
-			<ThingDef>Item_HuoYaoDan</ThingDef>
-			<Count>1</Count>
-			<Rate>0.5</Rate>
-		</li>
-		<li>
-			<ThingDef>Item_TuYaoDan</ThingDef>
-			<Count>1</Count>
-			<Rate>0.5</Rate>
-		</li>
 	</SlaughterItems>
 	<BaseFive>
-		<li Sex="Male" 	 AgeMin="0" 	AgeMax="2">2,6,6,1,2</li> 
-		<li Sex="Male" 	 AgeMin="3" 	AgeMax="9">5,7,4,3,2</li> 
-		<li Sex="Male" 	 AgeMin="10" 	AgeMax="12">8,8,4,4,2</li> 
-		<li Sex="Female" 	 AgeMin="0" 	AgeMax="2">2,6,6,1,2</li> 
-		<li Sex="Female" 	 AgeMin="3" 	AgeMax="9">5,7,4,3,2</li> 
-		<li Sex="Female" 	 AgeMin="10" 	AgeMax="12">8,8,4,4,2</li> 
+		<li Sex="Male" 	 AgeMin="0" 	AgeMax="2"	>2,6,6,1,2</li> 
+		<li Sex="Male" 	 AgeMin="3" 	AgeMax="9"	>5,7,4,3,2</li> 
+		<li Sex="Male" 	 AgeMin="10" 	AgeMax="12"	>8,8,4,4,2</li> 
+		<li Sex="Female" 	 AgeMin="0" 	AgeMax="2"	>2,6,6,1,2</li> 
+		<li Sex="Female" 	 AgeMin="3" 	AgeMax="9"	>5,7,4,3,2</li> 
+		<li Sex="Female" 	 AgeMin="10" 	AgeMax="12"	>8,8,4,4,2</li> 
 	</BaseFive>
 	<BaseP>
 		<li Name="RaceMaxAge" Value="MammalMaxAge_15"/>
@@ -771,6 +563,4 @@
 		<li Name="RaceRecoveryPower" Value="MammalRecoveryPower"/>
 	</BaseP>
 </RaceDef>
-
-</List>
-</RaceDefs>
+</List></RaceDefs>

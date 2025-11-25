@@ -1,5 +1,4 @@
-<ThingDefs>
-	<List>	
+<ThingDefs><List>	
 	<ThingDef Type="Item" Name="Item_MuYaoDan">	
 		<ThingName>妖丹</ThingName>
 		<TexPath>Spr\Object\object_muyd.png</TexPath>	
@@ -21,7 +20,7 @@
 		<Radius>1</Radius>
 		<Color>62F8FFFF</Color>
 	</Light>	
-		<Item Label="Other">	
+		<Item Lable="Other">	
 			<FabaoSuffix>丹,丸,球,珠</FabaoSuffix>
 			<PhysicalLables>
 				<li>Light1</li>
@@ -30,12 +29,12 @@
 			<Elixir>
 				<Modifier>Dan_YaoDan3</Modifier>
 			</Elixir>
-			<Food> <!-- 食用效果 -->
-				<EatDirectable>1</EatDirectable> <!-- 是否可以直接食用 -->
-				<Nutrition>0</Nutrition>
-				<PracticeNutrition>150</PracticeNutrition>
-				<Poisonousness>0</Poisonousness>
-				<FunAddion>0</FunAddion>
+<Food> <!-- 食用效果 -->
+			<EatDirectable>1</EatDirectable> <!-- 是否可以直接食用 -->
+			<Nutrition>0</Nutrition>
+			<PracticeNutrition>150</PracticeNutrition>
+			<Poisonousness>0</Poisonousness>
+			<FunAddion>0</FunAddion>
 			</Food>	
 		</Item>
 		<Ling>
@@ -43,6 +42,7 @@
 			<AddionRadius>1</AddionRadius>
 			<AddionFailing>0</AddionFailing>
 			<AddionFailRadius>0</AddionFailRadius>
+			
 			<Attenuation>0.05</Attenuation>
 			<Absorption>0.6</Absorption>
 			<Accommodate>40</Accommodate>
@@ -56,6 +56,7 @@
 		<Beauty>6</Beauty>
 		<Rate>5</Rate>
 		<ElementKind>Jin</ElementKind>
+		
 		<Flammability>
 			<Flammability>0.6</Flammability>
 			<FlameSpawnThingDef></FlameSpawnThingDef>
@@ -69,29 +70,35 @@
 		<Radius>1</Radius>
 		<Color>62F8FFFF</Color>
 	</Light>	
-		<Item Label="Other">	
+		<Item Lable="Other">	
 			<FabaoSuffix>丹,丸,球,珠</FabaoSuffix>
 			<PhysicalLables>
 				<li>Light1</li>
 				<li>Soft1</li>
 			</PhysicalLables>
 			<Elixir>
+
 				<Modifier>Dan_YaoDan4</Modifier>
-				<Ling>1000</Ling>
+
 			</Elixir>
-			<Food> <!-- 食用效果 -->
-				<EatDirectable>1</EatDirectable> <!-- 是否可以直接食用 -->
-				<Nutrition>0</Nutrition>
-				<PracticeNutrition>150</PracticeNutrition>
-				<Poisonousness>0</Poisonousness>
-				<FunAddion>0</FunAddion>
-			</Food>	
+<Food> <!-- 食用效果 -->
+			<EatDirectable>1</EatDirectable> <!-- 是否可以直接食用 -->
+			<Nutrition>0</Nutrition>
+			<PracticeNutrition>150</PracticeNutrition>
+			<Poisonousness>0</Poisonousness>
+			<FunAddion>0</FunAddion>
+		</Food>	
+		<Elixir>
+			
+			<Ling>1000</Ling>
+		</Elixir>
 		</Item>
 		<Ling>
 			<AddionLing>0</AddionLing>
 			<AddionRadius>1</AddionRadius>
 			<AddionFailing>0</AddionFailing>
 			<AddionFailRadius>0</AddionFailRadius>
+			
 			<Attenuation>0.05</Attenuation>
 			<Absorption>0.6</Absorption>
 			<Accommodate>40</Accommodate>
@@ -105,6 +112,7 @@
 		<Beauty>6</Beauty>
 		<Rate>5</Rate>
 		<ElementKind>Shui</ElementKind>
+		
 		<Flammability>
 			<Flammability>0.6</Flammability>
 			<FlameSpawnThingDef></FlameSpawnThingDef>
@@ -118,28 +126,31 @@
 		<Radius>1</Radius>
 		<Color>62F8FFFF</Color>
 	</Light>	
-		<Item Label="Other">	
+		<Item Lable="Other">	
 			<FabaoSuffix>丹,丸,球,珠</FabaoSuffix>
 			<PhysicalLables>
 				<li>Light1</li>
 				<li>Soft1</li>
 			</PhysicalLables>
 			<Elixir>
+
 				<Modifier>Dan_YaoDan1</Modifier>
+
 			</Elixir>
-			<Food> <!-- 食用效果 -->
-				<EatDirectable>1</EatDirectable> <!-- 是否可以直接食用 -->
-				<Nutrition>0</Nutrition>
-				<PracticeNutrition>150</PracticeNutrition>
-				<Poisonousness>0</Poisonousness>
-				<FunAddion>0</FunAddion>
-			</Food>	
+<Food> <!-- 食用效果 -->
+			<EatDirectable>1</EatDirectable> <!-- 是否可以直接食用 -->
+			<Nutrition>0</Nutrition>
+			<PracticeNutrition>150</PracticeNutrition>
+			<Poisonousness>0</Poisonousness>
+			<FunAddion>0</FunAddion>
+		</Food>	
 		</Item>
 		<Ling>
 			<AddionLing>0</AddionLing>
 			<AddionRadius>1</AddionRadius>
 			<AddionFailing>0</AddionFailing>
 			<AddionFailRadius>0</AddionFailRadius>
+			
 			<Attenuation>0.05</Attenuation>
 			<Absorption>0.6</Absorption>
 			<Accommodate>40</Accommodate>
@@ -153,6 +164,7 @@
 		<Beauty>6</Beauty>
 		<Rate>5</Rate>
 		<ElementKind>Huo</ElementKind>
+		
 		<Flammability>
 			<Flammability>0.6</Flammability>
 			<FlameSpawnThingDef></FlameSpawnThingDef>
@@ -166,28 +178,31 @@
 		<Radius>1</Radius>
 		<Color>62F8FFFF</Color>
 	</Light>	
-		<Item Label="Other">	
+		<Item Lable="Other">	
 			<FabaoSuffix>丹,丸,球,珠</FabaoSuffix>
 			<PhysicalLables>
 				<li>Light1</li>
 				<li>Soft1</li>
 			</PhysicalLables>
 			<Elixir>
+
 				<Modifier>Dan_YaoDan</Modifier>
+
 			</Elixir>
-			<Food> <!-- 食用效果 -->
-				<EatDirectable>1</EatDirectable> <!-- 是否可以直接食用 -->
-				<Nutrition>0</Nutrition>
-				<PracticeNutrition>150</PracticeNutrition>
-				<Poisonousness>0</Poisonousness>
-				<FunAddion>0</FunAddion>
-			</Food>	
+<Food> <!-- 食用效果 -->
+			<EatDirectable>1</EatDirectable> <!-- 是否可以直接食用 -->
+			<Nutrition>0</Nutrition>
+			<PracticeNutrition>150</PracticeNutrition>
+			<Poisonousness>0</Poisonousness>
+			<FunAddion>0</FunAddion>
+		</Food>	
 		</Item>
 		<Ling>
 			<AddionLing>0</AddionLing>
 			<AddionRadius>1</AddionRadius>
 			<AddionFailing>0</AddionFailing>
 			<AddionFailRadius>0</AddionFailRadius>
+			
 			<Attenuation>0.05</Attenuation>
 			<Absorption>0.6</Absorption>
 			<Accommodate>40</Accommodate>
@@ -201,6 +216,7 @@
 		<Beauty>6</Beauty>
 		<Rate>5</Rate>
 		<ElementKind>Tu</ElementKind>
+		
 		<Flammability>
 			<Flammability>0.6</Flammability>
 			<FlameSpawnThingDef></FlameSpawnThingDef>
@@ -214,28 +230,31 @@
 		<Radius>1</Radius>
 		<Color>62F8FFFF</Color>
 	</Light>	
-		<Item Label="Other">	
+		<Item Lable="Other">	
 			<FabaoSuffix>丹,丸,球,珠</FabaoSuffix>
 			<PhysicalLables>
 				<li>Light1</li>
 				<li>Soft1</li>
 			</PhysicalLables>
 			<Elixir>
+
 				<Modifier>Dan_YaoDan2</Modifier>
+
 			</Elixir>
-			<Food> <!-- 食用效果 -->
-				<EatDirectable>1</EatDirectable> <!-- 是否可以直接食用 -->
-				<Nutrition>0</Nutrition>
-				<PracticeNutrition>150</PracticeNutrition>
-				<Poisonousness>0</Poisonousness>
-				<FunAddion>0</FunAddion>
-			</Food>	
+<Food> <!-- 食用效果 -->
+			<EatDirectable>1</EatDirectable> <!-- 是否可以直接食用 -->
+			<Nutrition>0</Nutrition>
+			<PracticeNutrition>150</PracticeNutrition>
+			<Poisonousness>0</Poisonousness>
+			<FunAddion>0</FunAddion>
+		</Food>	
 		</Item>
 		<Ling>
 			<AddionLing>0</AddionLing>
 			<AddionRadius>1</AddionRadius>
 			<AddionFailing>0</AddionFailing>
 			<AddionFailRadius>0</AddionFailRadius>
+			
 			<Attenuation>0.05</Attenuation>
 			<Absorption>0.6</Absorption>
 			<Accommodate>40</Accommodate>

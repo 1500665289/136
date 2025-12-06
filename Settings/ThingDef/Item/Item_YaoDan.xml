@@ -1,6 +1,6 @@
 <ThingDefs><List>	
 	<ThingDef Type="Item" Name="Item_MuYaoDan">	
-		<ThingName>妖丹</ThingName>
+		<ThingName>回复妖丹</ThingName>
 		<TexPath>Spr\Object\object_muyd.png</TexPath>	
 		<Desc>妖兽的内丹，伤势恢复速度略微提升。</Desc>
 		<MaxStack>1</MaxStack>
@@ -49,7 +49,7 @@
 		</Ling>
 	</ThingDef>	
 	<ThingDef Type="Item" Name="Item_JiYaoDan">	
-		<ThingName>妖丹</ThingName>
+		<ThingName>突破妖丹</ThingName>
 		<TexPath>Spr\Object\object_jinyd.png</TexPath>	
 		<Desc>妖兽的内丹，一定时间提高突破概率。</Desc>
 		<MaxStack>1</MaxStack>
@@ -105,7 +105,7 @@
 		</Ling>
 	</ThingDef>	
 	<ThingDef Type="Item" Name="Item_ShuiYaoDan">	
-		<ThingName>妖丹</ThingName>
+		<ThingName>灵力妖丹</ThingName>
 		<TexPath>Spr\Object\object_shuiyd.png</TexPath>	
 		<Desc>妖兽的内丹，略微增加灵气上限。</Desc>
 		<MaxStack>1</MaxStack>
@@ -157,7 +157,7 @@
 		</Ling>
 	</ThingDef>	
 	<ThingDef Type="Item" Name="Item_HuoYaoDan">	
-		<ThingName>妖丹</ThingName>
+		<ThingName>聚灵妖丹</ThingName>
 		<TexPath>Spr\Object\object_huoyd.png</TexPath>	
 		<Desc>妖兽的内丹，提升聚灵效果。</Desc>
 		<MaxStack>1</MaxStack>
@@ -209,7 +209,7 @@
 		</Ling>
 	</ThingDef>	
 	<ThingDef Type="Item" Name="Item_TuYaoDan">	
-		<ThingName>妖丹</ThingName>
+		<ThingName>寿命妖丹</ThingName>
 		<TexPath>Spr\Object\object_tuyd.png</TexPath>	
 		<Desc>妖兽的内丹，略微增加寿命。</Desc>
 		<MaxStack>1</MaxStack>

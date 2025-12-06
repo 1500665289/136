@@ -1,6 +1,6 @@
 <ModifierDefs><List>
 	<Modifier Name="Dan_YaoDan" Type="Normal"><!-- 聚灵速度提升huo-->
-		<DisplayName>妖丹</DisplayName>
+		<DisplayName>聚灵妖丹</DisplayName>
 		<Desc>低级妖兽的内丹，聚灵效果略微提升。</Desc>
 		<MaxStack>0</MaxStack>
 		<Duration>-1</Duration>
@@ -10,7 +10,7 @@
 		</Properties>
 	</Modifier> 
 	<Modifier Name="Dan_YaoDan1" Type="Normal"><!-- 加灵力 shui-->
-		<DisplayName>妖丹</DisplayName>
+		<DisplayName>灵力妖丹</DisplayName>
 		<Desc></Desc>
 		<MaxStack>0</MaxStack>
 		<Duration>-1</Duration>
@@ -20,7 +20,7 @@
 		</Properties>
 	</Modifier> 
 	<Modifier Name="Dan_YaoDan2" Type="Normal"><!-- 加寿命 tu-->
-		<DisplayName>妖丹</DisplayName>
+		<DisplayName>寿命妖丹</DisplayName>
 		<Desc></Desc>
 		<MaxStack>0</MaxStack>
 		<Duration>-1</Duration>
@@ -30,7 +30,7 @@
 		</Properties>
 	</Modifier> 
 		<Modifier Name="Dan_YaoDan3" Type="Normal"><!-- 回复速度mu -->
-		<DisplayName>妖丹</DisplayName>
+		<DisplayName>回复妖丹</DisplayName>
 		<Desc></Desc>
 		<MaxStack>0</MaxStack>
 		<Duration>-1</Duration>
@@ -40,7 +40,7 @@
 		</Properties>
 	</Modifier> 
 			<Modifier Name="Dan_YaoDan4" Type="Normal"><!-- 提高突破概率jin -->
-		<DisplayName>妖丹</DisplayName>
+		<DisplayName>突破妖丹</DisplayName>
 		<Desc>提高瓶颈突破概率</Desc>
 		<MaxStack>0</MaxStack>
 		<Duration>1200</Duration>
